@@ -1,1 +1,3 @@
-# power-of-anumber
+x=int(input())
+n=int(input())
+print(x**n)
